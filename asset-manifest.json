@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/guilhermeyabu/react-image/static/css/main.95a848e5.css",
+    "main.js": "/guilhermeyabu/react-image/static/js/main.848c841f.js",
+    "index.html": "/guilhermeyabu/react-image/index.html",
+    "main.95a848e5.css.map": "/guilhermeyabu/react-image/static/css/main.95a848e5.css.map",
+    "main.848c841f.js.map": "/guilhermeyabu/react-image/static/js/main.848c841f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95a848e5.css",
+    "static/js/main.848c841f.js"
+  ]
+}
