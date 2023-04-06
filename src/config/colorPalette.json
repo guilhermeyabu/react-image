@@ -18,5 +18,20 @@
     "type": "color",
     "id": "purple",
     "colorCode": "#272755"
+  },
+  {
+    "type": "color",
+    "id": "color1",
+    "colorCode": "#0B2B26"
+  },
+  {
+    "type": "color",
+    "id": "color2",
+    "colorCode": "#FECCCE"
+  },
+  {
+    "type": "color",
+    "id": "color3",
+    "colorCode": "#CFCFCF"
   }
 ]

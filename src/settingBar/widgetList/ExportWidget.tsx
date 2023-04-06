@@ -89,6 +89,7 @@ const ExportThumbnail: React.FC<{
   };
 
   const onClickDownload = (exportId: string) => () => {
+    console.log(exportId);
     if (exportId === "export-all-frame") {
       downloadAll();
       return;

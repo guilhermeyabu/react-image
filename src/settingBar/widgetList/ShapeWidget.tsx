@@ -41,7 +41,7 @@ const ShapeThumbnail: React.FC<{
         trigger: TRIGGER.INSERT.SHAPE,
         ...data,
       }}>
-      <i className={[`bi-${data.icon}`].join(" ")} style={{ fontSize: 20, width: 25 }} />
+      <i className={[`bi-${data.icon}`].join(" ")} style={{ fontSize: 20, width: 25, color: "#FECCCE" }} />
     </Drag>
     {/* <Figure.Caption
         className={[
